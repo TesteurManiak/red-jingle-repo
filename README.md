@@ -1,4 +1,4 @@
-Filled either in whole or major part with jingles ripped from the 3DS. For use with Cocoon.
+Filled either in whole or major part with jingles ripped from video game consoles. For use with Cocoon.
 
 To add, open the Settings by double-pressing Start, move to "Library & Data"
 
