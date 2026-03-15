@@ -6,6 +6,10 @@
       "file": "jingles/n3ds/3d-classics-kirbys-adventure.wav"
     },
     {
+      "game": "Animal Crossing - Happy Home Designer",
+      "file": "jingles/n3ds/animal-crossing-happy-home-designer.wav"
+    },
+    {
       "game": "Animal Crossing - New Leaf",
       "file": "jingles/n3ds/animal-crossing-new-leaf.wav"
     },
@@ -28,10 +32,6 @@
     {
       "game": "Fossil Fighters - Frontier",
       "file": "jingles/n3ds/fossil-fighters-frontier.wav"
-    },
-    {
-      "game": "Happy Home Designer",
-      "file": "jingles/n3ds/happy-home-designer.wav"
     },
     {
       "game": "Harvest Moon Skytree Village",
@@ -76,6 +76,10 @@
     {
       "game": "Legend of Zelda, The - Ocarina of Time 3D",
       "file": "jingles/n3ds/legend-of-zelda-the-ocarina-of-time-3d.wav"
+    },
+    {
+      "game": "Legend of Zelda, The - Tri Force Heroes",
+      "file": "jingles/n3ds/legend-of-zelda-the-tri-force-heroes.wav"
     },
     {
       "game": "Luigi's Mansion",
@@ -216,10 +220,6 @@
     {
       "game": "Team Kirby Clash Deluxe",
       "file": "jingles/n3ds/team-kirby-clash-deluxe.wav"
-    },
-    {
-      "game": "Tri Force Heroes",
-      "file": "jingles/n3ds/tri-force-heroes.wav"
     },
     {
       "game": "WarioWare Gold",
